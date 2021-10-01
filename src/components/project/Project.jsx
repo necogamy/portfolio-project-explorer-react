@@ -5,7 +5,7 @@ import { Button } from '../button/Button';
 export class Project extends Component {
     render() {
         return (
-            <article class="project">
+            <article className="project">
                 <section>
                     <img src={this.props.project.image} alt={this.props.project.name} />
                 </section>

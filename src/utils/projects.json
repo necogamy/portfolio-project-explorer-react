@@ -12,7 +12,7 @@
         "id": 2,
         "name": "Personal Portfolio without frameworks",
         "description": "Web App where I show my projects and myself, this version was made without frameworks",
-        "image": "https://raw.githubusercontent.com/necogamy/portfolio-react/main/screenshot.png",
+        "image": "https://raw.githubusercontent.com/necogamy/personal-portfolio-website/main/screenshot.png",
         "tags": ["HTML", "CSS", "JavaScript"],
         "demo": "https://necogamy.github.io/personal-portfolio-website/",
         "github": "https://github.com/necogamy/personal-portfolio-website"
@@ -98,7 +98,7 @@
         "id": 12,
         "name": "Copy Cat React Project",
         "description": "A simple React App where I show advanced concepts of React framework",
-        "image": "https://www.pqi.com.do/wp-content/uploads/2013/11/dummy-image-square.jpg",
+        "image": "https://raw.githubusercontent.com/necogamy/copy-cat-react-probe/main/screenshot.png",
         "tags": ["React", "JavaScript", "CSS", "HTML"],
         "demo": "https://copy-cat-react-project.netlify.app/",
         "github": "https://github.com/necogamy/copy-cat-react-probe"

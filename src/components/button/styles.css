@@ -1,0 +1,18 @@
+.button {
+    color: rgb(26, 27, 122);
+    text-decoration: none;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 2.5px;
+    color: white;
+    opacity: 0.7;
+    padding: 2px 4px 2px 4px;
+    transition: .3s;
+    margin-right: 3px;
+    cursor: pointer;
+}
+
+.button:hover {
+    transition: .3s;
+    opacity: 1 !important;
+}
