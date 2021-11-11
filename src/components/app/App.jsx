@@ -9,7 +9,7 @@ import { Project } from '../project/Project';
 
 const primaryFilters = ['Featured', 'All'];
 const firstFilters = ['React', 'Redux', 'JavaScript', 'CSS', 'HTML', 'QA Testing'];
-const secondFilters = ['PostgreSQL', 'Node', 'Express', 'Bootstrap', 'jQuery', 'Sass', 'Web Design'];
+const secondFilters = ['SQL', 'Node', 'Express', 'Bootstrap', 'jQuery', 'Sass', 'Web Design'];
 
 class App extends Component {
   constructor(props) {
