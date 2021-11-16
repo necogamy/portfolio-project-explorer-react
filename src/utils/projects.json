@@ -21,7 +21,7 @@
         "id": 3,
         "name": "Full Stack PERN Personal Budget Management Web App",
         "description": "A Personal Budget Management web app made with PERN stack, that uses Json Web Token for login and register",
-        "image": "https://raw.githubusercontent.com/necogamy/alkemy-fullstack-challenge/main/screenshot.png",
+        "image": "https://raw.githubusercontent.com/necogamy/alkemy-fullstack-challenge/main/resources/screenshot.png",
         "tags": ["PostgreSQL", "Express","React", "Node", "Featured", "JavaScript", "SQL", "QA Testing", "HTML", "CSS", "Web Design"],
         "demo": "https://alkemy-fullstack-challenge.herokuapp.com/",
         "github": "https://github.com/necogamy/alkemy-fullstack-challenge"
